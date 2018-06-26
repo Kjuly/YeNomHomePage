@@ -1,7 +1,7 @@
 html, body {
   height: 100%;
   font-family: sans-serif;
-  background-color: #f7f8fb;
+  background-color: #413e80;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -19,7 +19,7 @@ body {
 
 p {
   font-size: 15px;
-  color: #7f828b;
+  color: #fff;
   line-height: 20px;
   margin-bottom: 4px;
   -webkit-margin-after: 0px;
@@ -50,7 +50,7 @@ p {
 
 .content_title_left, .content_text_left, .content_text_left_link, .content_text_center {
   font-size: 18px;
-  color: #47494e;
+  color: #fff;
   font-weight: 100;
 }
 
@@ -89,30 +89,18 @@ p {
   text-decoration: none;
   padding: 2px 10px;
   font-size: 12px;
-  color: #7f828b;
-}
-
-body.friendly {
-  background: -webkit-linear-gradient(135deg, #8363a1 0%, #74a8c3 100%);
-  background:    -moz-linear-gradient(135deg, #8363a1 0%, #74a8c3 100%);
-  background:     -ms-linear-gradient(135deg, #8363a1 0%, #74a8c3 100%);
-  background:      -o-linear-gradient(135deg, #8363a1 0%, #74a8c3 100%);
-  background:         linear-gradient(135deg, #8363a1 0%, #74a8c3 100%);
-}
-
-body.friendly p {
   color: #fff;
 }
 
-body.friendly .content_title_left, .content_text_left, .content_text_left_link, .content_text_center {
-  color: #fff;
-}
-
-body.friendly .button {
-  color: #fff;
+.button {
   border-right: 1px solid #fff;
 }
 
-body.friendly .button_last {
-  color: #fff;
+body.friendly {
+  background: -webkit-linear-gradient(145deg, #93d2f4 0%, #413e80 100%);
+  background:    -moz-linear-gradient(145deg, #93d2f4 0%, #413e80 100%);
+  background:     -ms-linear-gradient(145deg, #93d2f4 0%, #413e80 100%);
+  background:      -o-linear-gradient(145deg, #93d2f4 0%, #413e80 100%);
+  background:         linear-gradient(145deg, #93d2f4 0%, #413e80 100%);
 }
+
