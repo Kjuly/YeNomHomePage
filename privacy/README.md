@@ -16,8 +16,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Fabric](https://fabric.io/privacy)
-*   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
+*   [Firebase](https://firebase.google.com) ([Privacy](https://policies.google.com/privacy))
 
 **Log Data**
 
