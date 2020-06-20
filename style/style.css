@@ -17,6 +17,11 @@ body {
   padding: 0;
 }
 
+.app_logo {
+  width:  64px;
+  height: 64px;
+}
+
 p {
   font-size: 15px;
   color: #fff;
